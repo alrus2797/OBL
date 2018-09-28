@@ -1,0 +1,11 @@
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/CMakeFiles/rebuild_cache.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/CMakeFiles/example_bin.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/CMakeFiles/edit_cache.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/glad/CMakeFiles/rebuild_cache.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/glad/CMakeFiles/glad.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/glad/CMakeFiles/edit_cache.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/glfw/CMakeFiles/rebuild_cache.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/glfw/CMakeFiles/edit_cache.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/glfw/src/CMakeFiles/glfw.dir
+/home/bryce/Documents/Libraries/libigl/example/libigl-example-project/build/glfw/src/CMakeFiles/edit_cache.dir
